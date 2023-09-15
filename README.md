@@ -1,6 +1,5 @@
 # CloudDevOps.Ltd
 
-
 GitHub Action pipeline will be triggered as soon as there is a commit to main branch. 
 
 Status can be tracked here : 
